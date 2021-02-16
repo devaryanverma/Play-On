@@ -6,8 +6,6 @@ import FirstScreen from './Screens/FirstScreen';
 import MainScreenNavigator from './Navigation/ScreenNavigator';
 
 export default function App() {
- 
-  //console.log(DATA[index].id);
   return (
       <MainScreenNavigator/> 
   );
